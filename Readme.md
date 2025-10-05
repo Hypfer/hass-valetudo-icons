@@ -2,6 +2,10 @@
 
 This repository allows you to use the Valetudo Icons in your Home Assistant instance.
 
+> [!IMPORTANT]  
+> Superseded by https://github.com/Hypfer/hass-valetudo
+
+
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/2150924c-f193-45be-849f-3f44b36c5dbe)
